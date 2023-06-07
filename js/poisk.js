@@ -1,0 +1,1 @@
+let imputText=document.querySelector('.textpoisk')
