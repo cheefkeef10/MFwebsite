@@ -1,0 +1,349 @@
+@media only screen and (min-device-width: 1440px) {
+    .form {
+        width: 170px;
+    }
+    input:focus {
+        width: 170px;
+    }
+    .top__nav {
+        padding: 30px 0px;
+    }
+    .top__nav ul {
+        top: -131%;
+        left: 4%;
+        width: 100%;
+    }
+    .page-footer-logo {
+        position: relative;
+        right: 0px;
+    }
+    .topmenu::after {
+        right: 56%;
+    }
+    .razdelitel {
+        right: 11%;
+    }
+    .page-footer-row {
+        right: 58px;
+    }
+    
+    .mob-search[hidden]{
+        display: none;
+    }
+    
+
+}
+@media only screen and (max-device-width: 1449px) {
+    .form {
+        width: 170px;
+    }
+    input:focus {
+        width: 170px;
+    }
+    .top__nav {
+        padding: 30px 0px;
+    }
+    .top__nav ul {
+        top: -131%;
+        left: 4%;
+        width: 100%;
+    }
+    .page-footer-logo {
+        position: relative;
+        right: 0px;
+    }
+    .topmenu::after {
+        right: 56%;
+    }
+    .razdelitel {
+        right: 11%;
+    }
+    .page-footer-row {
+        right: 58px;
+        height: 12vh;
+    }
+    .social-icons {
+        left: 54%;
+    }
+    .mob-search[hidden]{
+        display: none;
+    }
+    .post-wrap {
+        max-width: 900px;
+    }
+
+}
+@media only screen and (max-device-width: 1300px) {
+    .form {
+        width: 130px;
+    }
+    input:focus {
+        width: 130px;
+    }
+    .top__nav {
+        padding: 30px 0px;
+    }
+    .top__nav ul {
+        top: -131%;
+        left: 4%;
+        width: 100%;
+    }
+    .page-footer-logo {
+        position: relative;
+        right: 0px;
+    }
+    .topmenu::after {
+        right: 56%;
+    }
+    .razdelitel {
+        right: 13%;
+    }
+    .page-footer-row {
+        right: 10px;
+    }
+    .social-icons {
+        left: 27%;
+    }
+    .mob-search[hidden]{
+        display: none;
+    }
+    .top__nav ul li {
+        margin-left: -12px;
+    }
+
+}
+
+@media only screen and (max-device-height: 1079px) {
+.side-panel {
+    height: 60vh;
+}
+}
+@media only screen and (min-width: 1920px) {
+    .top__nav {
+        padding: 30px 0px;
+    }
+
+    .top__nav ul {
+        top:-52px;
+        
+    }
+    .top__nav ul li {
+        margin-left: 25px;
+    }
+
+    .topmenu::after {
+        right: 44%;
+    }
+    .razdelitel {
+        
+        right: 9%;
+    }
+    .mob-search[hidden]{
+        display: none;
+    }
+    .page-footer-row {
+        height: 10vh;
+        right: 72px;
+    }
+
+}
+    
+@media only screen and (max-device-width: 768px) {
+    .textcolor {
+        display: none;
+    }
+    .maintext {
+        position: relative;
+        right: 7%;
+        top: -40px;;
+    }
+    .maintext::after {
+        display: none;
+    }
+    .mobvers[hidden] {
+        display: block;
+    }
+    .probel[hidden] {
+        display: block;
+    }
+    .post-wrap {
+        padding-right: 0px;
+    }
+    .page-footer-logo {
+        right: -137px;
+    }
+    .social-icons {
+        padding-left: 5%;
+    }
+    .slideshow-container {
+        float: none;
+        position: relative;
+        top: 0px;
+    }
+    .adap-img {
+        width: 515px;
+    }
+    .adap-img-palata {
+        position: relative;
+        left: 30%;
+    }
+    .rightmenu {
+        display: none;
+        
+    }
+    .rightmenumob[hidden] {
+        display: block;
+        position: absolute;
+        top: 61%;
+        right: 19px;
+    }
+    .razdelitel {
+        display: none;
+    }
+    .topmenu::after { 
+        display: none;
+    }
+    .mob-search[hidden]{
+        display: block;
+    }
+    .form {
+        display: none;
+    }
+ } 
+ @media only screen and (max-device-width: 425px) {
+    .nav-toggle {
+    font-size: 3.4em;
+    left: 100%;
+}
+    .maintext {
+    right: 3%;
+    top: -200px;
+    }
+    .top__nav {
+    padding: 150px 0px;
+}
+    .gerb {
+    width: 160px;
+    top: 100px;
+    }
+    .post-title2 {
+        font-size: 5em;
+    }
+    .post-title {
+        font-size: 3.4em;
+    }
+    .post-content {
+        font-size: 3em;
+    }
+    .page-footer-row {
+        height: 12vh;
+    }
+    .page-footer-logo-img {
+        width: 160px;
+        position: relative;
+        left: 90%;
+    }
+    .footer-text {
+        font-size: 3.4em;
+    }
+    .page-footer-logo {
+        right: 10%;
+    }
+    .top__nav ul li {
+        font-size: 3.4em;
+    }
+    .maintextin {
+        line-height: 1.2;
+    }
+    .nav {
+        width: 100%;
+        left: -100%;
+    }
+    .nav h2 {
+        font-size: 4.3em;
+    }
+    .nav > ul > li > a {
+        font-size: 3.2em;
+    }
+    .headcontact {
+        font-size: 4.5em;
+    }
+    .descriptionlistterm {
+        font-size: 3em;
+    }
+    .descriptionlistdescription {
+        font-size: 2.5em;
+    }
+    .rightmenumob[hidden] {
+        right: 10%;
+        top: 85%;
+    }
+    input:focus {
+        width: 447%;
+    }
+    button::before {
+        font-size: 5em;
+    }
+    input {
+        height: 75px;
+        top: 15px;
+        right: -22px;
+    }
+    form {
+        top: 15px;
+        left: 36%;
+    }
+}
+@media screen and (min-width: 320px) {
+    html,
+    body {
+      margin: 0;
+      overflow-x: hidden;
+    }
+}
+ 
+@media screen and (max-width: 320px) {
+    html,
+    body {
+      margin: 0;
+      overflow-x: hidden;
+    }
+    .nav {
+      width: 100%;
+      box-shadow: none
+    }
+}
+@media only screen and (device-width: 2560px)
+{   .razdelitel {
+    right: 7%;
+}
+    .topmenu::after{
+        right: 33%;
+    }
+}
+@media (max-width: 767px) {
+    .meanous-andscoev,
+    .ico-wrap {
+    float: none;
+    text-align: center;
+    }
+    .ico-wrap {
+    margin: 0 auto 15px auto;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
+@media only screen and (device-width: 375px) {
+    .rightmenu {
+    position: absolute;
+    top: 191%;
+    right: 40%;
+    }
+}
+@media only screen and (max-width: 300px) {
+    .prev, .next,.text {font-size: 11px}
+  }
